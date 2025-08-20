@@ -17,7 +17,7 @@ type ThemeConfig = {
 
 const themeConfig: ThemeConfig = {
   // ** Layout Configs
-  templateName: 'TrackDSCs' /* App Name */,
+  templateName: 'TrackMYDSCs' /* App Name */,
   mode: 'dark' /* light | dark */,
   contentWidth: 'full' /* full | boxed */,
 
